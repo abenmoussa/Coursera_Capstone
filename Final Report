@@ -1,0 +1,27 @@
+Introduction :
+
+Paris “The City of Light” is the capital and the most populous city of France. 
+Paris is known for its magic, charm and beauty. It has a dense culture and a diverse range of people.
+The city has also one of the best employment opportunities in Europe.
+This is what makes it so attractive for people seeking for jobs and cultural life.
+Its estimated population, in 2020, is 2,150,271 residents, in an area of 105 square kilometres (41 square miles), which is considered as high density.
+The City of Paris is the centre and seat of government of the île de France, 
+which has an estimated official 2020 population of 12,278,210, or about 18 percent of the population of France.
+Paris was the second most expensive city in the world, after Singapore in 2018.
+So, it is difficult for families wanting to settle in Paris or in its surroundings to find a house where the housing prices are low and the essential venues are nearby.
+The aim of my project, using the data available online and applying the data science principles, is to help families find a good balance between price and a good place to live in Paris and its metropolis (Greater Paris).
+
+
+Interested Audience:
+
+This study may help families who are looking to buy a house or investors seeking for good deals.
+
+
+
+Data Description:
+
+In order to achieve my goal, i will use Foursquare to get geolocation data of Paris and its surroundings. I will also use the website https://www.data.gouv.fr/
+which contains dataset that i need to:
+
+Get the list of the communes of the greater Paris and their GPS coordinates (https://www.data.gouv.fr/fr/datasets/repertoire-geographique-des-communes-d-ile-de-france-idf/).
+Get the housing prices per m2 (https://www.data.gouv.fr/fr/datasets/prix-moyen-au-m2-des-ventes-de-maisons-et-dappartements-par-commune-en-2019/).
