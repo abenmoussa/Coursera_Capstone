@@ -1,0 +1,7 @@
+Data Description:
+
+In order to achieve my goal, i will use Foursquare to get geolocation data of Paris and its surroundings. I will also use the website https://www.data.gouv.fr/
+which contains dataset that i need to:
+
+Get the list of the communes of the greater Paris and their GPS coordinates (https://www.data.gouv.fr/fr/datasets/repertoire-geographique-des-communes-d-ile-de-france-idf/).
+Get the housing prices per m2 (https://www.data.gouv.fr/fr/datasets/prix-moyen-au-m2-des-ventes-de-maisons-et-dappartements-par-commune-en-2019/).
