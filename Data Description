@@ -3,5 +3,11 @@ Data Description:
 In order to achieve my goal, i will use Foursquare to get geolocation data of Paris and its surroundings. I will also use the website https://www.data.gouv.fr/
 which contains dataset that i need to:
 
-Get the list of the communes of the greater Paris and their GPS coordinates (https://www.data.gouv.fr/fr/datasets/r/d824bbb3-37d6-4b47-bd69-d7851badb347).
+Get the list of the communes of the Ile de France and their GPS coordinates (https://www.data.gouv.fr/fr/datasets/r/d824bbb3-37d6-4b47-bd69-d7851badb347).
 Get the housing prices per m2 (https://www.data.gouv.fr/fr/datasets/r/36bb13d0-6cac-4540-b8b9-67c2162661ba).
+
+As my analysis will concern only communes of Greater Paris, i will get this list from an other source (http://comersis.fr/communes.php?epci=200054781)
+
+The first step consists of collecting and working on these 3 datasets, so i will have the list of the communities of Greater Paris with their GPS coordinates and the average prices.
+The second step of collecting data will be searching for venues from Foursquare in each commune. 
+The venues, that i will keep, will be the most important for a family which essantilly are looking for near transport, elementary school, parks, pharmacy, bakery...
